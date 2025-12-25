@@ -39,7 +39,7 @@ const HomeLayout = () => {
 
       </aside>
 
-      <div className="w-full h-full bg-black p-4">
+      <div className="w-full h-full bg-black p-4 overflow-auto">
         <Outlet />
 
         
